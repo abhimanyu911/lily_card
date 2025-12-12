@@ -197,6 +197,11 @@ a:hover{
   border-bottom-color: rgba(182,107,138,0.8);
 }
 
+/* ONLY CHANGE: Lily color */
+.lily{
+  color: #67a16b;
+}
+
 /* Mobile tweaks */
 @media (max-width: 520px){
   main{ padding: 18px 16px; border-radius: 18px; }
